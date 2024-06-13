@@ -5,7 +5,7 @@ import { create } from '@storybook/theming'
 export default create({
   base: 'dark',
 
-  colorPrimary: 'green',
+  colorPrimary: 'rgb(51, 153, 255)',
   colorSecondary: 'rgb(0, 30, 60)',
 
   // UI
