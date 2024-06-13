@@ -12,6 +12,8 @@
     "sb:upgrade": "sb upgrade --prerelease",
     "sort-package-json": "sort-package-json",
     "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "serve:storybook": "serve -s storybook-static",
     "typecheck": "tsc --project ./tsconfig.json --noEmit",
     "validate": "./scripts/validate"
   },
